@@ -1,6 +1,6 @@
 # Mike's Test Page
 
-![Screenshot](ss.png);
+![Screenshot](ss.png)
 
 View Site @: https://devoyno.github.io/test_page/
 
