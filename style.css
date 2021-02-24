@@ -1,0 +1,102 @@
+body {
+  width: 100%;
+}
+
+h3 {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.stock {
+  clear: both;
+  background: lightgray;
+  width: 410px;
+  border: 2px solid darkgray;
+  border-radius: 5px;
+  margin-left: 20px;
+  text-align: center;
+  justify-content: center;
+  height: 42px;
+  font-size: 15px;
+}
+
+.payment {
+  clear: both;
+  width: 100px;
+  height: 42px;
+  background: lightgray;
+  float: right;
+  margin-top: 5px;
+  border: 2px solid darkgray;
+  border-radius: 5px;
+  text-align: center;
+  justify-content: center;
+}
+
+.main {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/58b84b75d482e9fd767bbf74/1490967502941-5B58KPBE62GRXPW3PLLR/ke17ZwdGBToddI8pDm48kCNuFgHZpNbB9Od0nOc9CQ57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1Ufk7xsn95e0PmxrU573ZgCqNR1szC4S7L6sQEZZcqJ76h4wEndT9yoXeK5CPlsnUNQ/city-night-street-lights-hd-wallpaper.jpg?format=2500w");
+  background-position: center; 
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 850px;
+  font-family: 'Roboto Mono', monospace;
+  width: 100vw;
+}
+
+.jumbotron {
+  text-align: center;
+  padding-top: 15px;
+  font-family: 'Reggae One', cursive;
+}
+
+header {
+  height: 150px;
+  background-color: lightgray;
+}
+
+.search {
+  clear: both;
+  width: 450px;
+  height: 80px;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.button {
+  padding: 20px 0 10px 10px;
+}
+
+#stock-button {
+  width: 175px;
+  /* font-size: 10px; */
+}
+
+.image-line {
+  float: left;
+  margin: 10px;
+  border: 5px solid lightgray;
+  border-radius: 15px;
+  max-height: 600px;
+}
+
+.calc {
+  width: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: 5xp solid lightgray;
+  border-radius: 15px;
+  background: gray;
+  padding: 20px;
+}
+
+.form-group {
+  margin-top: 5px;
+}
+
+#calc-sub {
+  margin-top: 5px;
+  width: 100px;
+  height: 42px;
+  border: 2px solid darkgray;
+  border-radius: 5px;
+}
